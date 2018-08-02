@@ -5,8 +5,18 @@
 
 
 function clickb(){
-	prompt("choose a color");
+prompt("choose a color");
 }
+
+
+
+
+
+var asnwer;
+prompt("choose a color");
+
+answer=prompt("choose a color");
+
 
 
 
